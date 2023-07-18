@@ -4,7 +4,7 @@
 Level Up with 100 Days of Code
 
 ## Elevator Pitch
-100 Days of Code has been described as “the fastest way to form a coding habit”.  But it’s more than just an time-boxed guide to developing a habit.  Using the 100 Days of Code approach you can increase your understanding of a programming language, develop a portfolio of projects, and create opportunities to grow in your career.
+100 Days of Code has been described as “the fastest way to form a coding habit”.  But it’s more than just a time-boxed guide to developing a habit.  Using the 100 Days of Code approach you can increase your understanding of a programming language, develop a portfolio of projects, and create opportunities to grow in your career.
 
 In this discussion, we’ll cover the origins of the 100 Days of Code movement, tools and resources that you can use along the way, and specific goals you can use to guide your progress.  Throughout the discussion, you’ll find that the 100 Days of Code method can be used by people at all stages of their careers.  In addition, you’ll get an introduction to Blacks in Technology’s 100 Days of Code community, a welcoming group of life-long learners just like you.
 
