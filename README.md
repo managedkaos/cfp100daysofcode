@@ -1,5 +1,24 @@
-# CFP for 100 Days of Code
-Bits for a piece on 100 Days of Code
+# Level Up with 100 Days of Code
+
+## Summary
+100 Days of Code has been described as “the fastest way to form a coding habit”.  But it’s more than just a time-boxed guide to developing a habit.  Using the 100 Days of Code approach you can increase your understanding of a programming language, develop a portfolio of projects, and create opportunities to grow in your career.
+
+In this discussion, we’ll cover the origins of the 100 Days of Code movement, tools and resources that you can use along the way, and specific goals you can use to guide your progress.  Throughout the discussion, you’ll find that the 100 Days of Code method can be used by people at all stages of their careers.  In addition, you’ll get an introduction to Blacks in Technology’s 100 Days of Code community, a welcoming group of life-long learners just like you.
+
+Your host for this discussion is Michael Jenkins, a seasoned computer engineer and an advocate for the BIT 100 Days of Code community.
+
+## Talk Format
+Talk (~45 minutes)
+
+## Audience Level
+All
+
+## Notes
+While there’s no right or wrong way to do it, there are plenty of ways to get going.
+Here are a few!
+1. *Focus mode*: Pick one language and level up each day with a small lesson.  that way at the end of the sprint you’ll be a complete pro!
+1. *Polyglot style*: Pick multiple languages and spend time with each one learning the differences and similarities by solving the same problems with each language.
+1. *Project+Portfolio*:  Use the first ~33.3 days planning a project and researching the tech needed to implement it.  Use the next ~33.3 days coding up the project.  Then take the last ~33.3 days to fix bugs, wrap things up, and telling the story of how it all came together.  Pro tip: use this approach to develop presentations for conferences, blog posts, and other outlets to build your portfolio!! :think-about-it:
 
 ## The Rules
 ### Original
